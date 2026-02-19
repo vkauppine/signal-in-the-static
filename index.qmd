@@ -1,0 +1,7 @@
+---
+title: "Signal in the Static"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+---

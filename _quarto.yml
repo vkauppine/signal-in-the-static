@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Signal in the Static"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Etusivu
+      - about.qmd
+  site-url: https://vkauppine.github.io/signal-in-the-static/
+
+format:
+  html:
+    theme: darkly
+    lang: fi
+    css: styles.css
+
+
