@@ -9,7 +9,18 @@ website:
       - href: index.qmd
         text: Etusivu
       - about.qmd
+    right:
+      - icon: rss
+        href: index.xml
+        text: RSS
   site-url: https://vkauppine.github.io/signal-in-the-static/
+  comments:
+    giscus:
+      repo: vkauppine/signal-in-the-static
+      category: "General"
+      mapping: title
+      reactions-enabled: true
+      theme: dark
 
 format:
   html:
