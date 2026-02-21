@@ -5,7 +5,7 @@ date: "2026-02-21"
 author: "Vesa"
 categories: [kirja, arvostelu, klassikko]
 image: cover.jpg
-description: "Syndikalistinen hallitus karkottaa poliittiset vankkinsa aikamatkalla kambrikauden karuun maailmaan. Robert Silverbergin vuoden 1968 romaani on nopealukuinen ja toimiva tarina, joka ei kuitenkaan nouse aivan suureksi."
+description: "Syndikalistinen hallitus karkottaa poliittiset vankinsa aikamatkalla kambrikauden karuun maailmaan. Robert Silverbergin vuoden 1968 romaani on nopealukuinen ja toimiva tarina, joka ei kuitenkaan nouse aivan suureksi."
 format:
   html:
     toc: false
