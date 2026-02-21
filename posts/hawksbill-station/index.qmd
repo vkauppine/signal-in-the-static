@@ -1,0 +1,42 @@
+---
+title: "Hawksbill Station: Poliittisten vankien siirtola miljardin vuoden päässä"
+subtitle: "Robert Silverbergin klassikko eristyksestä, vanhenemisesta ja merkityksettömyydestä"
+date: "2026-02-21"
+author: "Vesa"
+categories: [kirja, arvostelu, klassikko]
+image: cover.jpg
+description: "Syndikalistinen hallitus karkottaa poliittiset vankkinsa aikamatkalla kambrikauden karuun maailmaan. Robert Silverbergin vuoden 1968 romaani on nopealukuinen ja toimiva tarina, joka ei kuitenkaan nouse aivan suureksi."
+format:
+  html:
+    toc: false
+---
+
+Robert Silverberg on scifin todellisia jättiläisiä. Ura alkoi 1950-luvulla, ja sen tuotteliaimmat vuodet olivat hämmästyttäviä: miljoona sanaa vuodessa, kymmeniä novelleja kuukaudessa, kaikki mahdolliset pseudonyymit käytössä. Varhaistuotanto oli pääosin rutiininomaista ammattilaistekstiä — kunnes 1960-luvun puolivälissä jotain muuttui. Silverberg alkoi kirjoittaa kunnianhimoisemmin, syvemmin ja kokeellisemmin. Tältä kultakaudelta ovat peräisin teokset kuten *Dying Inside*, *The World Inside* ja *Downward to the Earth*, jotka kuuluvat genren klassikkokaanoniin. Myöhempi Majipoor-sarja toi laajempaa suosiota. SFWA:n Grand Master -palkinto tuli vuonna 2004. Teoksia ei ole juurikaan suomennettu.
+
+*Hawksbill Station* (1968) sijoittuu tämän murroskauden alkuun. Se pohjautuu samannimiseen novelliin, joka ilmestyi Galaxy-lehdessä vuonna 1967 ja oli ehdolla sekä Hugo- että Nebula-palkinnon saajaksi. Romaaniversio laajentaa novellia merkittävästi, erityisesti päähenkilön taustatarinan osalta. Kirjaa ei ole suomennettu.
+
+## Premissi
+
+Lähitulevaisuuden Yhdysvalloissa valta on siirtynyt syndikalistiselle hallitukselle, joka on löytänyt tyylikkään tavan päästä eroon poliittisista toisinajattelijoista: aikamatkustus. Yksisuuntainen sellainen. Vallankumoukselliset, anarkistit ja muut hankalat tyypit lähetetään miljardi vuotta menneisyyteen, kambrikaudelle, jossa kuiva maa on pelkkää karua kiveä ja elämä rajoittuu trilobiitteihin ja merieliöihin. Paluuta ei ole.
+
+Hawksbill Station on tämän rangaistusiirtokunnan nimi. Sinne on kertynyt jo noin 140 vankia, ja heidän epävirallisena johtajanaan toimii Jim Barrett. Hän iso, ikääntyvä mies ja on ollut siirtolassa pisimpään. Barrett kulkee kainalosauvan varassa loukkaantumisen jäljiltä, ja hänen tehtävänsä on pitää yhteisö koossa tilanteessa, jossa toivoa ei varsinaisesti ole.
+
+Tarinan käynnistää uuden vangin saapuminen. Lew Hahn on outo tapaus: hän välttelee kysymyksiä rikoksistaan ja tuntuu hämmästyttävän tietämättömältä poliittisesta historiasta ja taloustieteestä — outo piirre poliittiseksi vangiksi. Barrett alkaa epäillä, ettei Hahn ole sitä miltä näyttää.
+
+## Barrett ja tyhjyys
+
+Romaanin vahvin elementti on Barrettin hahmo ja hänen tarinansa. Siirtokunnan nykyhetken rinnalla kulkevat takaumat Barrettin aiemmasta elämästä: nuoruus, radikalisoituminen, maanalainen toiminta, pidätys. Nämä jaksot maalaavat kuvan miehestä, joka antoi kaiken asialle — ja jonka asia on nyt miljardin vuoden ja yksisuuntaisen aikamatkustuksen päässä.
+
+Barrettin ympärillä muut vangit käsittelevät eristystä kukin omalla tavallaan, ja useimmilla se tarkoittaa mielenterveyden rapautumista. Yksi kirjoittaa pakkomielteisesti kirjaa trilobiiteista. Toinen yrittää rakentaa telepaattista portaalia takaisin nykyaikaan. Kolmas makaa päivät pitkät huumaavien lääkkeiden vaikutuksen alaisena. Silverberg kuvaa näitä hajoamisen muotoja maltillisesti mutta tehokkaasti.
+
+## Toimiva, ei mullistava
+
+*Hawksbill Station* on nopealukuinen ja hyvin rytmitetty romaani. Silverberg oli rautainen ammattilainen, ja se näkyy: proosa on varmaa, rakenne toimii, ja lyhyessä sivumäärässä ei ole turhaa löysää. Aikamatkustus jää lopulta melko pieneen roolin lähinnä premissin mahdollistavaksi mekanismiksi, ei tarinaksi itsessään. Varsinainen tarkastelun kohde on eristetty yhteisö ja sen ihmiset.
+
+Poliittinen ulottuvuus jää myös pinnalliseksi. Syndikalistinen hallitus on lähinnä kulissi, ja vaikka vangit ovat nimenomaan poliittisia toisinajattelijoita, romaani ei juurikaan pureudu ideologisiin kysymyksiin tai tarjoa syvällistä analyysia vallasta ja vastarinnasta. Taloustieteellinen tai poliittinen tarkastelu ei ulotu karikatyyriä pidemmälle. Se on tietoinen valinta — Silverbergiä kiinnostaa enemmän ihminen kuin järjestelmä — mutta jättää premissin potentiaalia käyttämättä.
+
+Kokonaisuutena *Hawksbill Station* on toimiva ja nautittava lukukokemus, mutta se ei nouse Silverbergin parhaan tuotannon tasolle. Se on siirtymäkauden teos: selvästi kunnianhimoisempi kuin varhaistuotannon rutiinityö, mutta ei vielä *Dying Insiden* tai *The World Insiden* tasolla. Hyvä kirja, jonka lukee illassa — muttei sellainen, joka jää kummittelemaan.
+
+::: {.callout-note appearance="simple"}
+**Robert Silverberg:** *Hawksbill Station* (1968). Doubleday. Perustuu novelliin (Galaxy, elokuu 1967). Hugo- ja Nebula-ehdokas (novelliversio). Ei suomennettu.
+:::
