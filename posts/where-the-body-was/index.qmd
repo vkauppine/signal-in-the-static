@@ -1,4 +1,12 @@
-# Where the Body Was — rakkautta ja murhaa esikaupungin kartalla
+---
+title: "Where the Body Was — rakkautta ja murhaa esikaupungin kartalla"
+author: "Vesa"
+date: "2026-02-22"
+categories: [sarjakuva, arvostelu]
+image: cover.jpg
+---
+
+![](cover.jpg)
 
 **Ed Brubaker, Sean Phillips & Jacob Phillips** | Image Comics, 2023
 
