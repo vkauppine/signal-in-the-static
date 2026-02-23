@@ -27,5 +27,7 @@ format:
     theme: darkly
     lang: fi
     css: styles.css
-
+    include-after-body:
+      text: <script data-goatcounter="https://signal-in-the-static.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
