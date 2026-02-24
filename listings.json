@@ -2,14 +2,15 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/absolute-batman/index,q.html",
       "/posts/pulp/index.html",
       "/posts/where-the-body-was/index.html",
-      "/posts/hawksbill-station/index.html",
       "/posts/scumbag/index.html",
-      "/posts/concrete-island/concrete-island-index.html",
-      "/posts/flowers-for-algernon/index.html",
-      "/posts/folding-knife/the-folding-knife-index.html",
+      "/posts/hawksbill-station/index.html",
       "/posts/rosewater/rosewater-index.html",
+      "/posts/folding-knife/the-folding-knife-index.html",
+      "/posts/flowers-for-algernon/index.html",
+      "/posts/concrete-island/concrete-island-index.html",
       "/posts/supergirl-world-of-tomorrow/index.html"
     ]
   }
