@@ -11,17 +11,6 @@ format:
     toc: true
 ---
 
-| | |
-|---|---|
-| **Sarja** | Absolute Batman |
-| **Kokoelma** | Vol. 1: The Zoo (#1–6) |
-| **Kirjoittaja** | Scott Snyder |
-| **Piirtäjä** | Nick Dragotta, Gabriel Walta |
-| **Väritys** | Frank Martin |
-| **Lettering** | Clayton Cowles |
-| **Kustantaja** | DC Comics, 2025 |
-| **Sivuja** | 192 |
-
 ## Mikä ihmeen Absolute?
 
 DC Comics lanseerasi syksyllä 2024 uuden Absolute Universe -kustannuslinjan osana laajempaa "DC All In" -aloitetta. Kyseessä ei ole jälleen yksi uudelleenkäynnistys, vaan kokonaan erillinen jatkuvuus – vaihtoehtoinen universumi, jossa tutut sankarit on rakennettu alusta asti uudelleen. Premissi on yksinkertainen: mitä jos sankareilta riistettäisiin ne resurssit ja edut, jotka normaalisti määrittelevät heitä? Superman ei kasva Kentien rakkaudessa, Wonder Woman kasvaa helvetissä eikä Themysciralla, ja Batman – no, Batman ei ole miljardööri.
