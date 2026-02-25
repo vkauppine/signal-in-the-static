@@ -1,7 +1,7 @@
 ---
 title: "Absolute Flash Vol. 1: Of Two Worlds – peloissaan oleva poika ja telepaattinen apina"
 subtitle: "Jeff Lemiren Flash on ahdistuneen teinin road movie ilman Speed Forcea"
-description: "Arvostelu DC:n Absolute-universumin Flashistä, jossa 15-vuotias Wally West pakenee armeijaa telepastisen apinan kanssa."
+description: "Arvostelu DC:n Absolute-universumin Flashistä, jossa 15-vuotias Wally West pakenee armeijaa telepaattisen apinan kanssa."
 author: "Vesa"
 date: 2026-02-24
 categories: [sarjakuvat, arvostelut]
@@ -10,21 +10,12 @@ format:
   html:
     toc: true
 ---
-| | |
-|---|---|
-| **Sarja** | Absolute Flash |
-| **Kokoelma** | Vol. 1: Of Two Worlds (#1–6) |
-| **Kirjoittaja** | Jeff Lemire |
-| **Piirtäjä** | Nick Robles, A.L. Kaplan |
-| **Väritys** | Adriano Lucas, Christopher Sotomayor |
-| **Lettering** | Tom Napolitano |
-| **Kustantaja** | DC Comics, 2025 |
-| **Sivuja** | 152 |
+
 ## Toinen aalto
 
-DC:n Absolute-universumi lanseerattiin syksyllä 2024 kolmella sarjalla: Batman, Wonder Woman ja Superman. Maaliskuussa 2025 tuli toinen aalto: Flash, Martian Manhunter ja Green Lantern. Siinä missä ensimmäinen aalto tuntui itsevarmalta – kolme ikonista hahmoa, kolme vahvaa debyytti-issuria – toinen aalto on ottanut enemmän riskejä ja saanut ristiriitaisemman vastaanoton.
+DC:n Absolute-universumi lanseerattiin syksyllä 2024 kolmella sarjalla: Batman, Wonder Woman ja Superman. Maaliskuussa 2025 tuli toinen aalto: Flash, Martian Manhunter ja Green Lantern. Siinä missä ensimmäinen aalto tuntui itsevarmalta – kolme ikonista hahmoa, kolme vahvaa avausnumeroa – toinen aalto on ottanut enemmän riskejä ja saanut ristiriitaisemman vastaanoton.
 
-Absolute Flash on tämän toisen aallon kiinnostavin tapaus. Jeff Lemire (*Sweet Tooth*, *Black Hammer*, *Essex County*) on kirjoittaja, jonka vahvuudet ovat melankolisessa, henkilöhahmovetoissa kerronnassa. Nick Robles piirtää. Sarja myi ensimmäisellä numerollaan yli 180 000 kappaletta, eniten mille tahansa Flash-sarjakuvalle sitten vuoden 1987.
+Absolute Flash on tämän toisen aallon kiinnostavin tapaus. Jeff Lemire (*Sweet Tooth*, *Black Hammer*, *Essex County*) on kirjoittaja, jonka vahvuudet ovat melankolisessa, henkilöhahmovetoisessa kerronnassa. Nick Robles piirtää. Sarja myi ensimmäisellä numerollaan yli 180 000 kappaletta, eniten mille tahansa Flash-sarjakuvalle sitten vuoden 1987.
 
 ## Wally West, 15-vuotiaana ja yksin
 
