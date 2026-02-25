@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/absolute-batman/index,q.html",
+      "/posts/absolute-flash/flash_index.html",
+      "/posts/absolute-wonder-woman/wonder-woman_index.html",
+      "/posts/absolute-batman/index.html",
       "/posts/pulp/index.html",
       "/posts/where-the-body-was/index.html",
       "/posts/hawksbill-station/index.html",
