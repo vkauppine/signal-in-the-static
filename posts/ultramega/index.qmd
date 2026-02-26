@@ -4,7 +4,7 @@ subtitle: "James Harrenin visuaalinen raivokohtaus on yksi 2020-luvun rohkeimmis
 date: "2026-02-25"
 author: "Vesa"
 categories: [sarjakuva, arvostelu]
-image: cover.jpg
+image: cover1.jpg
 description: "Kosminen rutto muuttaa ihmisiä kaijuiksi. Kolme supersankaria yrittää pysäyttää tuhon. He epäonnistuvat. James Harrenin Ultramega on väkivaltainen, kaunis ja täysin hillitön."
 format:
   html:
