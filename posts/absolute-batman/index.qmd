@@ -13,48 +13,48 @@ format:
 
 ## Mikä ihmeen Absolute?
 
-DC Comics lanseerasi syksyllä 2024 uuden Absolute Universe -kustannuslinjan osana laajempaa "DC All In" -aloitetta. Kyseessä ei ole jälleen yksi uudelleenkäynnistys, vaan kokonaan erillinen jatkuvuus – vaihtoehtoinen universumi, jossa tutut sankarit on rakennettu alusta asti uudelleen. Premissi on yksinkertainen: mitä jos sankareilta riistettäisiin ne resurssit ja edut, jotka normaalisti määrittelevät heitä? Superman ei kasva Kentien rakkaudessa, Wonder Woman kasvaa helvetissä eikä Themysciralla, ja Batman – no, Batman ei ole miljardööri.
+DC Comics käynnisti syksyllä 2024 uuden Absolute Universe -kustannuslinjan osana laajempaa DC All In -aloitetta. Kyse ei ole uudelleenkäynnistyksestä vaan erillisestä jatkuvuudesta: vaihtoehtoisesta universumista, jossa tutut sankarit rakennetaan uudelleen eri lähtökohdista. Ajatus on yksinkertainen mutta toimiva — mitä tapahtuu, jos sankareilta poistetaan ne resurssit ja turvaverkot, jotka yleensä määrittävät heitä? Superman ei kasva Kentien suojassa, Wonder Woman ei Themysciralla vaan helvetissä, ja Batman ei ole miljardööri.
 
-Absolute-sarjat ovat myyneet tähän mennessä yli 8,5 miljoonaa kappaletta, ja linja on laajentunut Batmanista, Wonder Womanista ja Supermanista myös Flashiin, Martian Manhunteriin ja Green Lanterniin. Koko linjan kehittämistä ja yhtenäisyyttä valvoo kirjoittaja Scott Snyder, joka on luonnollisesti myös lippulaivasarjan käsikirjoittaja.
+Absolute-sarjat ovat myyneet tähän mennessä yli 8,5 miljoonaa kappaletta, ja linja on laajentunut Batmanista, Wonder Womanista ja Supermanista myös Flashiin, Martian Manhunteriin ja Green Lanterniin. Kokonaisuutta koordinoi kirjoittaja Scott Snyder, joka toimii samalla lippulaivasarjan pääkirjoittajana.
 
 ## Scott Snyder ja Batman
 
-Snyder ei ole mikään satunnainen nimi Batman-sarjakuvien yhteydessä. Hänen New 52 -kautensa (2011–2016, piirtäjänä Greg Capullo) on yksi hahmon arvostetuimmista jaksoista ylipäätään. Court of Owls, Death of the Family, Zero Year, Endgame – nämä tarinat määrittelivät Batmanin uudelle lukijasukupolvelle ja toivat mytologiaan pysyviä lisäyksiä. Snyder osaa kirjoittaa Batmania, joka on sekä älyllisesti kiinnostava että fyysisesti uhkaava.
+Snyder ei ole uusi nimi Batmanin yhteydessä. Hänen New 52 -kautensa (2011–2016, piirtäjänä Greg Capullo) kuuluu hahmon modernin historian keskeisiin jaksoihin. Court of Owls, Death of the Family, Zero Year ja Endgame muokkasivat Batmanin mytologiaa tavalla, joka näkyy edelleen. Snyderin vahvuus on Batmanissa, joka on yhtä aikaa analyyttinen ja uhkaava — hahmo toimii sekä ideana että fyysisenä läsnäolona.
 
-Absolute Batmanissa Snyder palaa hahmon pariin vuosien tauon jälkeen, tällä kertaa piirtäjänään Nick Dragotta. Ja tällä kertaa hänellä on vapaat kädet tehdä jotain, mitä pääjatkuvuuden kahleissa ei voi: repiä kaikki oletukset irti ja rakentaa alusta.
+Absolute Batmanissa Snyder palaa hahmon pariin pitkän tauon jälkeen yhdessä piirtäjä Nick Dragottan kanssa. Tällä kertaa lähtökohta on vapauttava: pääjatkuvuuden painolastia ei tarvitse huomioida, joten perusoletukset voidaan purkaa ja rakentaa uudelleen.
 
 ## The Zoo: Tarina
 
-Ensimmäinen kokoelma, *The Zoo*, kerää lehdet 1–6 ja kertoo tämän uuden Batmanin alkutarinan. Bruce Wayne on 24-vuotias rakennusinsinööri Gothamista. Hänellä ei ole kartanoa, ei luolaa, ei miljardeja. Hänen isänsä Thomas Wayne ei ollut kirurgi vaan opettaja, joka kuoli suojellakseen oppilaitaan – Bruce mukaan lukien – kun Joe Chill avasi tulen eläintarhassa kouluretkellä. Martha Wayne on elossa ja toimii yhteisöaktivistina.
+Ensimmäinen kokoelma, *The Zoo*, kerää lehdet 1–6 ja kertoo tämän version Batmanin alkutarinan. Bruce Wayne on 24-vuotias rakennusinsinööri Gothamista. Hänen isänsä Thomas Wayne oli opettaja, joka kuoli suojellessaan oppilaitaan Joe Chillin avatessa tulen eläintarhassa kouluretkellä. Martha Wayne on yhä elossa ja toimii yhteisöaktivistina.
 
-Alfred Pennyworth ei ole uskollinen hovimestari, vaan MI6:n tiedusteluagentti, joka lähetetään Gothamiin tarkkailemaan uutta terroriryhmää nimeltä Party Animals. Ryhmää johtaa Roman Sionis, ja heidän toimintansa on brutaalia, satunnaista väkivaltaa, joka pitää Gothamia pelossa. Alfred selvittää nopeasti, että kaupungin uusi naamioitunut vigilantti on Bruce Wayne, saa käskyn eliminoida hänet. Hän ei tee sitä.
+Alfred Pennyworth ei ole uskollinen hovimestari vaan MI6-agentti, joka lähetetään Gothamiin tutkimaan Party Animals -nimistä terroristiryhmää. Ryhmää johtaa Roman Sionis, ja sen väkivalta on tarkoituksellisen satunnaista: varsinaisena tavoitteena on kylvää pelkoa. Alfred tunnistaa nopeasti kaupungin uuden vigilantin Bruce Wayneksi ja saa käskyn eliminoida hänet. Hän päättää olla tottelematta.
 
-Tarina etenee siitä kohti väistämätöntä yhteenottoa Batmanin ja Party Animalsin välillä. Sionis kärjistää hyökkäyksiään, korruptoituneet poliisit ovat hänen puolellaan, ja Bruce joutuu toimimaan ilman mitään turvaverkkoa. Lopulta Batman paljastaa Sionisin rikokset ja kukistaa hänet – mutta epilogi paljastaa, että joku muu on vetänyt naruja kulissien takana.
+Tarina etenee kohti väistämätöntä yhteenottoa Batmanin ja Party Animalsin välillä. Korruptoitunut poliisi tukee Sionista, ja Bruce joutuu toimimaan ilman resursseja tai varasuunnitelmia. Lopulta Batman paljastaa rikokset ja pysäyttää Sionisin, mutta epilogi vihjaa suuremmasta pelistä kulissien takana.
 
 ## Yksinkertainen ja tehokas
 
-*The Zoon* suurin vahvuus on sen yksinkertaisuus. Snyder ei yritä rakentaa monimutkaista mysteeriä tai filosofista meditaatiota oikeudenmukaisuudesta. Tämä on suoraviivainen tarina miehestä, joka on rakentanut itsensä aseeksi kaupunkinsa puolesta, ja terroristijärjestöstä, joka yrittää tuhota kaiken minkä hän suojelee. Juoni kulkee eteenpäin kuin juna, ja jokainen kuudesta lehdestä tuntuu merkitykselliseltä.
+*The Zoon* suurin vahvuus on sen suoraviivaisuus. Snyder ei rakenna monimutkaista mysteeriä tai filosofista tutkielmaa oikeudenmukaisuudesta. Kyse on origin-tarinasta, joka etenee määrätietoisesti ja pitää fokuksen toiminnassa ja hahmodynamiikassa. Kuuden lehden rakenne tuntuu tiiviiltä ilman kiireen tuntua.
 
-Dragotan piirrosjälki sopii tähän Batmaniin täydellisesti. Batman ei ole sulava, varjoissa liikkuva ninja vaan massiivinen, piikitettyyn haarniskaan puettu tankkimies, joka lyö tiensä ongelmien läpi. Taistelut ovat raskaita ja raakoja. Kun tämä Batman lyö, tuntuu siltä. Dragotan sivusuunnittelu on dynaamista ja elokuvamaista, ja Frank Martinin värit vaihtelevat sujuvasti yöllisen Gothamin synkkyydestä lapsuusmuistojen lämpöön.
+Dragotan piirrosjälki sopii tähän Batmaniin hyvin. Hahmo ei liiku sulavasti varjoissa vaan on massiivinen, piikitettyyn haarniskaan puettu tankkimies, joka lyö tiensä ongelmien läpi. Taistelut ovat raskaita ja raakoja, ja iskut tuntuvat painavilta. Sivuasettelu on elokuvallista, ja Frank Martinin värit liikkuvat luontevasti Gothamin kylmien sävyjen ja muistokohtausten lämpimämmän paletin välillä.
 
 ## Miten tämä eroaa "normaalista" Batmanista?
 
-Erot ovat perustavanlaatuisia. Perinteinen Batman on pohjimmiltaan etuoikeutetun miehen tarina: Bruce Waynen vauraus mahdollistaa teknologian, batluolan, ajoneuvot ja koko infrastruktuurin. Hän on valmistautunut kaikkeen, koska hänellä on varaa siihen. Tästä syntyy kiinnostava ristiriita – miljardööri, joka lyö rikollisia kadulla – mutta se on myös rajoite.
+Suurin muutos liittyy lähtöasetelmaan. Perinteinen Batman on väistämättä tarina etuoikeudesta: Bruce Waynen varallisuus mahdollistaa teknologian, infrastruktuurin ja lähes rajattoman valmistautumisen. Absolute-versio poistaa tämän perustan kokonaan.
 
-Absolute Batman riisuu tämän kaiken pois. Tämä Bruce on rakentanut haarniskansa ja aseensa itse, käsityönä, insinöörin taidoilla. Hän ei asu kartanossa vaan käyttää hylättyä kerrostilaa, joka on toisen miehen omaisuutta. Hän ei suunnittele kaikkea etukäteen vaan improvisoi, ottaa iskuja vastaan ja kestää. Tämä tekee hänestä aidosti altavastaajan tavalla, jolla perinteinen Batman ei koskaan ole.
+Tämä Bruce rakentaa varusteensa itse insinöörin taidoilla ja toimii jatkuvasti resurssien rajalla. Hän improvisoi enemmän kuin suunnittelee, ottaa iskuja vastaan ja joutuu kestämään seuraukset. Lopputulos tekee hahmosta aidosti haavoittuvan tavalla, jota klassinen Batman harvoin on.
 
-Alfred-dynamiikka on myös käännetty päälaelleen. Sen sijaan että Alfred olisi isähahmo ja tukija, hän on potentiaalinen uhka, agentti, joka päättää oman moraalinsa perusteella olla noudattamatta tappokäskyä. Heidän liittolaisuutensa ei synny luottamuksesta vaan pragmatismista, ja se on paljon kiinnostavampaa.
+Myös Alfredin rooli muuttuu merkittävästi. Hän ei ole tukija vaan mahdollinen vastustaja, joka päättää omien moraalisten rajojensa perusteella olla toteuttamatta käskyä. Liittolaisuus syntyy käytännön pakosta, ei luottamuksesta, mikä tekee suhteesta kiinnostavamman.
 
-Tutut hahmot ovat paikalla mutta uusissa rooleissa: Gordon on pormestari eikä poliisipäällikkö, Barbara on jo kentällä, ja Brucen lapsuudenystävät – Waylon Jones, Edward Nygma, Harvey Dent – ovat siviilielämässä ihmisiä, jotka eivät ole vielä muuttuneet siksi mitä he tulevat olemaan.
+Sivuhahmot ovat tuttuja mutta eri vaiheessa elämäänsä: Gordon toimii pormestarina, Barbara on jo aktiivinen kentällä, ja Brucen lapsuudenystävät — Waylon Jones, Edward Nygma ja Harvey Dent — ovat vielä kaukana tulevista rooleistaan.
 
 ## Rajoitteet
 
-Sarja ei ole virheetön. Sionis Black Maskina on tylsähkö antagonisti – hänen motivaationsa jäävät pintapuolisiksi, ja hän toimii lähinnä katalyyttinä eikä itsenäisenä hahmona. Kuuden lehden mittakaavassa tarina ei ehdi syventyä Brucen psykologiaan niin paljon kuin voisi. Ja vaikka yksinkertaisuus on vahvuus, se tarkoittaa myös sitä, että The Zoo ei yllätä rakenteellisesti. Se on suora origin-tarina, joka tekee tarkalleen sen mitä lupaa.
+Sarja ei täysin vältä ongelmiaan. Sionis jää antagonisti­na melko ohueksi, enemmän juonelliseksi liikkeellepanijaksi kuin itsenäiseksi hahmoksi. Kuuden lehden mitta rajoittaa myös Brucen psykologista syventämistä. Tarinan suoraviivaisuus toimii rytmin kannalta, mutta tekee rakenteesta ennalta arvattavan.
 
 ## Lopuksi
 
-Absolute Batman Vol. 1: *The Zoo* on parasta mitä supersankarisarjakuvissa on tapahtunut pitkään aikaan. Se ei yritä olla liian fiksu eikä liian edgy. Se on vain todella hyvin tehty tarina Batmanista, joka on rakennettu tämän päivän maailmaa varten. Snyder tietää, mitä tekee, Dragotta piirtää uransa parasta jälkeä, ja kokonaisuus on brutaalin tyydyttävä.
+Absolute Batman Vol. 1: The Zoo on vahva aloitus uudelle linjalle. Se ei yritä kommentoida kaikkea Batmanista eikä keksi hahmoa täysin uudelleen, vaan muuttaa yhden keskeisen oletuksen ja katsoo, mitä siitä seuraa. Snyder hallitsee rytmin, Dragotta tuo visuaaliseen ilmeeseen fyysisyyttä, ja kokonaisuus tuntuu selkeältä suunnanmuutokselta ilman pakotettua radikaaliutta.
 
-Jos et ole koskaan lukenut Batman-sarjakuvaa, tämä on paikka aloittaa. Jos olet lukenut niitä kaikkia, tämä on jotain mitä et ole nähnyt.
+Uusille lukijoille tämä toimii helppona sisäänkäyntinä. Pitkään mukana olleille se tarjoaa tutun hahmon, joka käyttäytyy hieman arvaamattomammin kuin yleensä.
 
 **Absolute Batman Vol. 1: The Zoo**. Scott Snyder & Nick Dragotta. DC Comics, 2025. 192 sivua.
