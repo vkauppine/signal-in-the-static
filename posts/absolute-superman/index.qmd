@@ -5,6 +5,7 @@ author: "Vesa"
 date: "2026-02-28"
 categories: [sarjakuvat, arvostelut]
 subtitle: "Arvostelu DC:n Absolute-universumin kunnianhimoisimmasta uudelleentulkinnasta."
+image: cover.jpg
 ---
 
 # Absolute-universumi ja Superman

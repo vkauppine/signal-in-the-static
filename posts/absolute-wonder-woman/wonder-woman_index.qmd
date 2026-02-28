@@ -11,16 +11,6 @@ format:
     toc: true
 ---
 
-| | |
-|---|---|
-| **Sarja** | Absolute Wonder Woman |
-| **Kokoelma** | Vol. 1: The Last Amazon (#1–7) |
-| **Kirjoittaja** | Kelly Thompson |
-| **Piirtäjä** | Hayden Sherman, Mattia De Iulis |
-| **Väritys** | Jordie Bellaire |
-| **Lettering** | Becca Carey |
-| **Kustantaja** | DC Comics, 2025 |
-| **Sivuja** | 208 |
 ## Toinen pilari
 
 Jos Absolute Batman on DC:n uuden Absolute-universumin lippulaiva, niin Absolute Wonder Woman on sen taiteellinen sydän. Siinä missä Scott Snyderin Batman riisui Bruce Waynelta miljoonat ja rakensi tilalle raakaa street-level-toimintaa, Kelly Thompsonin ja Hayden Shermanin Wonder Woman tekee jotain kunnianhimoisempaa: se kääntää koko Dianan mytologian päälaelleen ja korvaa paratiisin helvetillä.
