@@ -4,9 +4,6 @@ project:
 
 website:
   title: "Signal in the Static"
-  feeds:
-    - categories: [posts]
-      type: rss
   navbar:
     left:
       - href: index.qmd
