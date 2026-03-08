@@ -2,6 +2,7 @@
 title: "Absolute Batman Vol. 2: Pimeyden rakenne"
 date: "2026-03-08"
 categories: [sarjakuvat, dc, absolute universe, batman]
+image: cover.jpg
 ---
 
 Scott Snyder ja Nick Dragotta jatkavat Absolute Batmanin toista osaa siitä mihin jäivät — ja kokonaisuus alkaa hahmottua sekä vahvuuksineen että ongelmineen.
